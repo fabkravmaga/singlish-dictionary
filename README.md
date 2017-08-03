@@ -17,7 +17,7 @@ This repository is a collection of known, published Singlish 'dictionary' words.
 ## Use case
 Easily enumerate and find a specific Singlish word in the dictionary using the updated list.
 
-Taken references from online resources:
+## References
 
 * https://en.wikipedia.org/wiki/Singlish_vocabulary
 * http://www.mysmu.edu/faculty/jacklee/
