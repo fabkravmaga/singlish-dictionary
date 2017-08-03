@@ -11,12 +11,14 @@
 
 ## Objective
 This repository is a collection of known, published Singlish 'dictionary' words.
+
 [Download / View the compiled list of Singlish here.](https://raw.githubusercontent.com/fabianlim1989/singlish-dictionary/master/singlish.dictionary)
 
 ## Use case
 Easily enumerate and find a specific Singlish word in the dictionary using the updated list.
 
 Taken references from online resources:
-https://en.wikipedia.org/wiki/Singlish_vocabulary
-http://www.mysmu.edu/faculty/jacklee/
-http://72.5.72.93/html/lexec.php
+
+* https://en.wikipedia.org/wiki/Singlish_vocabulary
+* http://www.mysmu.edu/faculty/jacklee/
+* http://72.5.72.93/html/lexec.php
