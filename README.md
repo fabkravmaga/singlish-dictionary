@@ -17,6 +17,9 @@ This repository is a collection of known, published Singlish 'dictionary' words.
 ## Use case
 Easily enumerate and find a specific Singlish word in the dictionary using the updated list.
 
+## To do !!
+Work in progress to actually scrap the sites to retrieve all Singlist words.
+
 ## References
 
 * https://en.wikipedia.org/wiki/Singlish_vocabulary
